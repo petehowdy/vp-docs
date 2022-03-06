@@ -1,15 +1,17 @@
-- [x] Init project repository
-- [x] Publish project on GitHub
-- [ ] Add Connect VIVE screenshots
-- [ ] Add Unreal screenshots
-- [ ] Get feedback
-- [ ] Run through process, note any errors
-
 <div align="center">
 <img src="/img/StartPlease.png" alt="Spock from the original Star Trek grabs a small computer monitor in frustration"/>
 </div>
 <h1 align="center">Virtual Production Documentation</h1>
 <p>Hi there, this repo aims to support those unfamiliar with the start up process of the Virtual Production suite at the Academy of Interactive Entertainment in Melbourne. This is currently a work in progress and we are in the process of confirming the optimal process and potential errors that may interrupt the start up process. Select the drop down arrow to reveal supporting images or more information.</p>
+
+- [x] Publish project on GitHub
+- [x] Add Devices screenshots
+- [x] Add Brompton screenshots
+- [ ] Add Connect VIVE screenshots
+- [ ] Add Unreal screenshots
+- [ ] Get feedback
+- [ ] Run through process, note any errors
+- [ ] Correct terminology and definitions 
 
 ## Activate Devices
 
