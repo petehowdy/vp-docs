@@ -11,7 +11,17 @@
 - [ ] Add Unreal screenshots
 - [ ] Get feedback
 - [ ] Run through process, note any errors
-- [ ] Correct terminology and definitions 
+- [ ] Correct terminology and definitions
+<br></br>
+
+## Contents
+
+- [Definitions](#definitions)
+- [Activate Devices](#activate-devices)
+- [Connect Brompton](#connect-brompton)
+- [Connect VIVE](#connect-vive)
+- [Launch Unreal Engine](#launch-unreal-engine)
+<br></br>
 
 ## Definitions
 
@@ -22,8 +32,9 @@
   <dd>.</dd>
   </dl>
 </details>
+<br></br>
 
-## 1. Activate Devices
+## Activate Devices
 
 <details>
   <summary>1. Power on LED Wall</summary>
@@ -51,8 +62,9 @@
 <summary>7. Power on Brompton display</summary>
   <img src="/img/1-7-power-brompton-monitor.png" alt="Hi">
 </details>
+<br></br>
 
-## 2. Connect Brompton
+## Connect Brompton
 
 <details>
   <summary>1. Open Tessera Remote</summary>
@@ -69,8 +81,9 @@
   <p></p>
   <img src="/img/2-3-Tessera.gif" alt=""/>
 </details>
+<br></br>
 
-## 3. Connect VIVE headset and tracker
+## Connect VIVE
 
 1. Open VIVE wireless
 2. Open SteamVR
@@ -81,8 +94,9 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;1. Select "I want to pair a different type of controller"</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;2. Select HTC Vive Tracker</p>
 </details>
+<br></br>
 
-## 4. Launch Unreal Engine
+## Launch Unreal Engine
 
 1. Navigate to:
 2. Open the Unreal Engine Project File
@@ -94,6 +108,7 @@
 8. Select the Editor plug icon and wait for the project to load
 9. Then select the Render plug icon and wait for the project to load on the Render computer.
 10. Select the Node_0 plug icon
+<br></br>
 
 ##
 
