@@ -1,3 +1,10 @@
+- [x] Init project repository
+- [x] Publish project on GitHub
+- [ ] Add Connect VIVE screenshots
+- [ ] Add Unreal screenshots
+- [ ] Get feedback
+- [ ] Run through process, note any errors
+
 <div align="center">
 <img src="/img/StartPlease.png" alt="Spock from the original Star Trek grabs a small computer monitor in frustration"/>
 </div>
