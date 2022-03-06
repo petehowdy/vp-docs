@@ -13,17 +13,24 @@
 </details>
 <details>
 <summary>2. Power on Vive Transmitter</summary>
+  <p>Press the button on top of the transmitter.</p>
   <img src="/img/1-2-power-vr.png" alt="The Vive Transmitter">
 </details>
 <details>
 <summary>3. Power on Vive headset</summary>
+  <p>Press the button in the centre of the headset.</p>
   <img src="/img/1-3-power-headset.png" alt="The Vive Headset">
 </details>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;4. Power on Vive puck mounted on top of the ARRI Amira</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;5. Power on editor and render computers</p>
 <details>
 <summary>6. Power on Brompton unit</summary>
+  <p>Flick the switch underneathe the power input cord.</p>
   <img src="/img/1-5-power-brompton.png" alt="Hi">
+</details>
+<details>
+<summary>7. Power on Brompton display</summary>
+
 </details>
 
 ## Connect Brompton
