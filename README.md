@@ -7,13 +7,23 @@
 - [x] Publish project on GitHub
 - [x] Add Devices screenshots
 - [x] Add Brompton screenshots
-- [ ] Add Connect VIVE screenshots
+- [ ] Add Connect Vive screenshots
 - [ ] Add Unreal screenshots
 - [ ] Get feedback
 - [ ] Run through process, note any errors
 - [ ] Correct terminology and definitions 
 
-## Activate Devices
+## Definitions
+
+<details>
+  <summary>Definition list</summary>
+  <dl> 
+  <dt>Vive</dt>
+  <dd>.</dd>
+  </dl>
+</details>
+
+## 1. Activate Devices
 
 <details>
   <summary>1. Power on LED Wall</summary>
@@ -42,7 +52,7 @@
   <img src="/img/1-7-power-brompton-monitor.png" alt="Hi">
 </details>
 
-## Connect Brompton
+## 2. Connect Brompton
 
 <details>
   <summary>1. Open Tessera Remote</summary>
@@ -60,7 +70,7 @@
   <img src="/img/2-3-Tessera.gif" alt=""/>
 </details>
 
-## Connect VIVE headset and tracker
+## 3. Connect VIVE headset and tracker
 
 1. Open VIVE wireless
 2. Open SteamVR
@@ -72,7 +82,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;2. Select HTC Vive Tracker</p>
 </details>
 
-## Launch Unreal Engine
+## 4. Launch Unreal Engine
 
 1. Navigate to:
 2. Open the Unreal Engine Project File
