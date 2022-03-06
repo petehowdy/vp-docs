@@ -26,11 +26,11 @@
 <details>
 <summary>6. Power on Brompton unit</summary>
   <p>Flick the switch underneathe the power input cord.</p>
-  <img src="/img/1-5-power-brompton.png" alt="Hi">
+  <img src="/img/1-6-power-brompton.png" alt="Hi">
 </details>
 <details>
 <summary>7. Power on Brompton display</summary>
-
+  <img src="/img/1-7-power-brompton-monitor.png" alt="Hi">
 </details>
 
 ## Connect Brompton
