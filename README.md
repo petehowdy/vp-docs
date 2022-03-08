@@ -17,6 +17,8 @@
 - [ ] Ask others to implement process under different scenarios
 - [ ] Update any missing information
 - [ ] If time permits, recapture high-res images
+- [ ] Accessibility check
+- [ ] Metadata check
 - [ ] Properly credit sources, parties involved and update license
 - [ ] Publish
 
