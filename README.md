@@ -95,11 +95,26 @@
 
 ## Connect VIVE
 
-1. Open VIVE wireless
-2. Open SteamVR
+<details>
+  <summary>1. Open VIVE wireless</summary>
+  #Todo insert Vive menu shot
+</details>
+
+<details>
+  <summary>2. Open SteamVR</summary>
+  #Todo insert SteamVR menu shot
+</details>
+<details>
+  <summary>#Todo confirm steps</summary>
+  <img src="/img/3-3-Steam-Vive.gif" alt=""/>
+</details>
+<details>
+  <summary>#Todo confirm steps</summary>
+  <img src="/img/3-6-Steam.gif" alt=""/>
+</details>
 <br>
 <details>
-<summary>If the controllers do not auto pair</summary>
+  <summary><i>If the controllers do not auto pair</i></summary>
 <br>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;1. Select "I want to pair a different type of controller"</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;2. Select HTC Vive Tracker</p>
@@ -108,7 +123,7 @@
 
 ## Launch Unreal Engine
 
-1. Navigate to:
+1. Navigate to Unreal Project I.E: C:\Perforce\Local\AIEVP_Template.uep
 2. Open the Unreal Engine Project File
 3. Select the "Live Link" tab
 4. Confirm the SteamVRTrackTransform item has a green status light.
