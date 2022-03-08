@@ -16,6 +16,7 @@
 - [ ] Implement change requests
 - [ ] Ask others to implement process under different scenarios
 - [ ] Update any missing information
+- [ ] If time permits, recapture high-res images
 - [ ] Publish
 
 <br></br>
