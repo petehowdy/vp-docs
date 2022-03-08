@@ -9,9 +9,15 @@
 - [x] Add Brompton screenshots
 - [ ] Add Connect Vive screenshots
 - [ ] Add Unreal screenshots
-- [ ] Get feedback
+- [ ] Differentiate between Editor computer and Render computer
+- [ ] Add terminology and definitions
 - [ ] Run through process, note any errors
-- [ ] Correct terminology and definitions
+- [ ] Get feedback
+- [ ] Implement change requests
+- [ ] Ask others to implement process under different scenarios
+- [ ] Update any missing information
+- [ ] Publish
+
 <br></br>
 
 ## Contents
