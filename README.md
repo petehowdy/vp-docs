@@ -67,8 +67,7 @@
   <img src="/img/1-4-puck.jpg" alt="The Vive puck">
 <details>
 <summary>If the puck is not mounted on the Arri</summary>
-  <summary>4A. Get the puck from the large white table</summary>
-  <p></p>
+4A. Get the puck from the large white table
   <img src="/img/1-4A-Vive-puck.jpg" alt="The Vive puck">
   </details>
 </details>
