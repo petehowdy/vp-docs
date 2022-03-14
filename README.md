@@ -95,6 +95,8 @@
 </details>
 <br></br>
 
+### The following steps are performed on the editor computer.
+
 ## Connect Brompton
 
 <details>
