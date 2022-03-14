@@ -81,8 +81,7 @@
 </details>
 <details>
 <summary>5. Power on editor and render computers</summary>
-  <p>Flick the switch underneathe the power input cord.</p>
-  <img src="/img/1-6-power-brompton.png" alt="Hi">
+  <p>The 'Editor' computer is the one closest to the LED wall, the 'Render' computer is the other. Both PC's must be powered on and displaying there desktop backgrounds</p>
 </details>
 
 <details>
