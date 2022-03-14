@@ -61,8 +61,19 @@
   <p>Press the button in the centre of the headset.</p>
   <img src="/img/1-3-power-headset.png" alt="The Vive Headset">
 </details>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;4. Power on Vive puck mounted on top of the ARRI Amira</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;5. Power on editor and render computers</p>
+<summary>4. Power on Vive puck mounted on top of the ARRI Amira</summary>
+  <p>Press the button in the centre of the puck.</p>
+  <img src="/img/1-4-puck.jpg" alt="The Vive puck">
+<summary>If the puck is not mounted on the Arri</summary>
+
+</details>
+</details>
+<details>
+<summary>5. Power on editor and render computers</summary>
+  <p>Flick the switch underneathe the power input cord.</p>
+  <img src="/img/1-6-power-brompton.png" alt="Hi">
+</details>
+
 <details>
 <summary>6. Power on Brompton unit</summary>
   <p>Flick the switch underneathe the power input cord.</p>
