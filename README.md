@@ -61,11 +61,12 @@
   <p>Press the button in the centre of the headset.</p>
   <img src="/img/1-3-power-headset.png" alt="The Vive Headset">
 </details>
+<details>
 <summary>4. Power on Vive puck mounted on top of the ARRI Amira</summary>
   <p>Press the button in the centre of the puck.</p>
   <img src="/img/1-4-puck.jpg" alt="The Vive puck">
+<details>
 <summary>If the puck is not mounted on the Arri</summary>
-
 </details>
 </details>
 <details>
