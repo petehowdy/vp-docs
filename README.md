@@ -67,8 +67,15 @@
   <img src="/img/1-4-puck.jpg" alt="The Vive puck">
 <details>
 <summary>If the puck is not mounted on the Arri</summary>
-4A. Get the puck from the large white table
+<details>
+<summary>4A. Get the puck from the large white table</summary>
   <img src="/img/1-4A-Vive-puck.jpg" alt="The Vive puck">
+  </details>
+  <details>
+<summary>4B. Attach puck to mount on top of Arri camera</summary>
+    <p>When attached, press button in centre</p>
+  <img src="/img/1-4b-puck.jpg" alt="The Vive puck">
+  </details>
   </details>
 </details>
 </details>
