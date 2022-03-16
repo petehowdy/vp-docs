@@ -152,6 +152,8 @@
 4. Confirm the SteamVRTrackTransform item has a green status light.
 5. In the content browser navigate to the Maps folder
 6. Open desired map and wait for the project to load
+6A. Unreal server button.
+6b. Render Server button. 
 7. Select the Switchboard button
 8. Select the Editor plug icon and wait for the project to load
 9. Then select the Render plug icon and wait for the project to load on the Render computer.
